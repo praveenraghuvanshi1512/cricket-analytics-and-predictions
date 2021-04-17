@@ -1,2 +1,1 @@
-# cricket-analytics-and-predictions
-Cricket Analytics and Predictions
+# Cricket Analytics and Predictions
